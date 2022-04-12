@@ -1,0 +1,3 @@
+brokers:
+  - tcp://localhost:1883
+
